@@ -1,0 +1,18 @@
+﻿  GUI.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(107,39): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(112,39): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(117,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tbhbs\source\repos\testing GUI\testing GUI\GUI.cpp(56,1): error C2084: function 'Graph_lib::Menu::Menu(Graph_lib::Point,int,int,Graph_lib::Menu::Kind,const std::string &)' already has a body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(95): message : see previous definition of '{ctor}'
+  Window.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(107,39): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(112,39): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(117,39): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(123,1): error C2228: left of '.attach' must have class/struct/union
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(123,1): message : type is 'Window'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(123,1): message : did you intend to use '->' instead?
+C:\Users\tbhbs\source\repos\testing GUI\testing GUI\Window.cpp(36,17): error C2664: 'void Graph_lib::Widget::attach(Window &)': cannot convert argument 1 from 'Graph_lib::Window' to 'Window &'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include\GUI.h(41,22): message : see declaration of 'Graph_lib::Widget::attach'
+C:\Users\tbhbs\source\repos\testing GUI\testing GUI\Window.cpp(60,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tbhbs\source\repos\testing GUI\testing GUI\Window.cpp(62,15): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
