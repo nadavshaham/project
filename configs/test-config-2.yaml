@@ -4,3 +4,4 @@ metadata:
   name: test-config
 data:
   key: value
+  nadav: test
