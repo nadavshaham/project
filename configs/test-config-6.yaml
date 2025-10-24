@@ -2,6 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: test-configa
-  test: helloaaaa
+  test: asdfhelloaaaa
 data:
   key: value
+asdf
