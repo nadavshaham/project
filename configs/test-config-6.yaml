@@ -4,6 +4,4 @@ metadata:
   name: test-configaa
   test: helloaaaa
 data:
-  key: valueasdf
-  asdf
-nadav  
+  key: value
